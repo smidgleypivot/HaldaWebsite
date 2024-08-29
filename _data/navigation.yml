@@ -1,9 +1,10 @@
 main:
-  - title: "Posts"
+  - title: "The Project"
     url: /posts/
-  - title: "Categories"
+  - title: "The Process"
+    url: /The Process/
+  - title: "Blog"
+    url: /Blog/    
+  - title: "About Us"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+
